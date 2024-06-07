@@ -1,5 +1,5 @@
 # Frank-Energie
-API call for Frank Energie market prices
+API call for Frank Energie dynamic market prices (Electricity & Gas)
 
 Use GraphQL
 
